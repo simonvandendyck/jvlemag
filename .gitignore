@@ -60,3 +60,9 @@
 /drush
 /drupal.phar
 /drupal
+
+# Ignore PhpStorm project files
+/.idea/
+/*.iml
+/.vscode/
+
